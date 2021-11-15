@@ -1,5 +1,7 @@
 # 喫茶Qへようこそ
 
+<img src ="https://user-images.githubusercontent.com/58350923/141794432-4fc14318-5c28-4256-a59d-a22760b46ecd.png"  height="400px">
+
 ## :green_book:プライバシーポリシ-
 
 ### 【利用者情報の取得】
